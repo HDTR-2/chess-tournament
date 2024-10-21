@@ -1,32 +1,32 @@
 export const sliderMain = () => {
   const slides = [
     {
-      imageSrc: "assets/img/avatar-default.png",
+      imageSrc: "./assets/img/avatar-default.png",
       title: "Хозе-Рауль Капабланка",
       subtitle: "Чемпион мира по шахматам",
     },
     {
-      imageSrc: "assets/img/avatar-default.png",
+      imageSrc: "./assets/img/avatar-default.png",
       title: "Эммануил Ласкер",
       subtitle: "Чемпион мира по шахматам",
     },
     {
-      imageSrc: "assets/img/avatar-default.png",
+      imageSrc: "./assets/img/avatar-default.png",
       title: "Александр Алехин",
       subtitle: "Чемпион мира по шахматам",
     },
     {
-      imageSrc: "assets/img/avatar-default.png",
+      imageSrc: "./assets/img/avatar-default.png",
       title: "Арон Нимцович",
       subtitle: "Чемпион мира по шахматам",
     },
     {
-      imageSrc: "assets/img/avatar-default.png",
+      imageSrc: "./assets/img/avatar-default.png",
       title: "Рихард Рети",
       subtitle: "Чемпион мира по шахматам",
     },
     {
-      imageSrc: "assets/img/avatar-default.png",
+      imageSrc: "./assets/img/avatar-default.png",
       title: "Остап Бендер",
       subtitle: "Гроссмейстер",
     },
