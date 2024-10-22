@@ -107,7 +107,6 @@ export const sliderMain = () => {
 
       removeElement: document.querySelector(".slider > .slide"),
     });
-    console.log(widthOffset);
   };
 
   const prevSlide = () => {

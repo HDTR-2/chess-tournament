@@ -146,7 +146,6 @@ export const sliderStages = () => {
         sliderPlace.style.transform = `translateX(${translateXValue}px)`;
       },
     });
-    console.log(startTranslateX);
   };
 
   const nextSlide = () => {
